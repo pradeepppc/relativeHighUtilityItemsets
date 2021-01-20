@@ -23,3 +23,5 @@ To test the repetability of our experiments, we have provided some databases in 
 # Examples of running above code
 
 java RHUIMiner datasets/T10I4D100K_Utility.txt out.txt 50000 0.5 
+
+Detailed explaination of the algorithm along with the correctness and complexity can be found in FurtherReading.pdf file.
